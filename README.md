@@ -2,6 +2,8 @@
 
 GoogLeNetPlaces.mlmodel 和 Resnet50都可以识别人物和静态物体。不过这个才24M，小多了，所以就简尔处理给张特定的image，然后输出结果
 
+![](Image/pool.png)
+
 ### Download Core ML Model
 
 [GoogLeNetPlaces.mlmodel下载地址](https://developer.apple.com/machine-learning/)
